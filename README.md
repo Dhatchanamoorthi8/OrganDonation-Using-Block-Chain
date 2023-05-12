@@ -1,8 +1,7 @@
 # OrganDonation-Using-Block-Chain
 Organ Donation Management Using Block Chain Technology
-![Doc1_page-0001](https://github.com/Dhatchanamoorthi8/OrganDonation-Using-Block-Chain/assets/111693185/f7fc33e1-f019-4cd0-b886-56d60c7914c0)
 
-
+![Doc1_page-0001 (2)](https://github.com/Dhatchanamoorthi8/OrganDonation-Using-Block-Chain/assets/111693185/3a1d3de4-007a-48a3-98e5-ff34c89106d9)
 
 # SYSTEM DIAGRAM
 ![diagram_page-0002](https://github.com/Dhatchanamoorthi8/OrganDonation-Using-Block-Chain/assets/111693185/f4b01c64-767c-44e2-a1bf-96ba6a5347a7)
