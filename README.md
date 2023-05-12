@@ -1,6 +1,7 @@
 # OrganDonation-Using-Block-Chain
 Organ Donation Management Using Block Chain Technology 
 ![diagram_page-0002](https://github.com/Dhatchanamoorthi8/OrganDonation-Using-Block-Chain/assets/111693185/f4b01c64-767c-44e2-a1bf-96ba6a5347a7)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Prerequisites
 
@@ -56,6 +57,7 @@ truffle compile && truffle migrate
 ```
 
 ### Run the server
+
 Now that everything is set-up, you can run the server.
 1. Run the following command
    ```sh
