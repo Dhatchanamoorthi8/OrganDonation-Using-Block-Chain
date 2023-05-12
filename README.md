@@ -58,7 +58,6 @@ truffle compile && truffle migrate
 ### Start the server
 Now that everything is set up, you can run the server.
 1. Run the following command
-   ```Sh
    npm run dev
    ```
 2. Open a browser and navigate to http://localhost:8080/
