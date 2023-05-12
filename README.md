@@ -30,7 +30,7 @@ Install Gitbash from https://gitforwindows.org/
 1. Open gitbash or terminal.
 2. Clone the repo.
    ```sh
-   git clone https://github.com/rahulsabinkar/organ-donation-platform.git
+   git clone https://github.com/Dhatchanamoorthi8/OrganDonation-Using-Block-Chain.git
    ```
 3. Traverse into the app folder.
    ```sh
@@ -52,12 +52,11 @@ When the npm dependencies are installed, follow these instructions.
 
 ### Use the contract
 Back in the gitbash or terminal window where you were downloading the npm dependencies, wait for it to finish and enter the following commands to deploy the commit.
-Sh
+```sh
 truffle compile && truffle migrate
 ```
 
 ### Run the server
-
 Now that everything is set-up, you can run the server.
 1. Run the following command
    ```sh
